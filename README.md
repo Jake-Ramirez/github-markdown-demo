@@ -1,10 +1,6 @@
-# This is a section header
+# Coding Challenge 4
 
-## This is a header of a subsection
-
-### This is a subsubsection header
-
-Here's a list:
+##Table of contents
 
 - Item 1
 - Item 2
