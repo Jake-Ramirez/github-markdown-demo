@@ -91,4 +91,3 @@ combined_plot <- ggarrange(Plot1, Plot2, Plot3,
 combined_plot
 
 ```
-
